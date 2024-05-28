@@ -1,0 +1,47 @@
+.Container
+{
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  background-color: #3f51b5;
+  width: 80%;
+  margin-left: 150px;
+  height: 600px;
+}
+.first
+{
+ background-color: white;
+ height: 500px;
+ margin-top: 25px;
+ padding: 20px;
+ border-radius: 10px;
+}
+.second
+{
+  margin-top: 70px;
+  margin-left: 40px;
+}
+#w
+{
+  font-size: 80px;
+  color: white;
+}
+#b
+{
+  background-color: #3f51b5;
+  color: white;
+  border-style: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#lo
+{
+  margin-left: 50px;
+}
+input::placeholder
+{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#R
+{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
